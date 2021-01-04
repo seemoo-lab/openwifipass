@@ -21,6 +21,7 @@ setup(
     author="The Open Wireless Link Project",
     classifiers=[
         "Development Status :: 3 - Alpha",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Environment :: Console",
         "Intended Audience :: Information Technology",
         "Intended Audience :: Science/Research",

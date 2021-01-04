@@ -64,4 +64,4 @@ This projects contains a reusable OPACK (de)serializer. Read [OPACK.md](OPACK.md
 
 ## License
 
-*TBA*
+OpenWifiPass is licensed under the [**GNU General Public License v3.0**](LICENSE).
