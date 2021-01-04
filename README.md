@@ -57,9 +57,10 @@ This projects contains a reusable OPACK (de)serializer. Read [OPACK.md](OPACK.md
 
 * Jannik Lorenz
 
-## Related Papers
+## Publications
 
 * Milan Stute, Alexander Heinrich, Jannik Lorenz, and Matthias Hollick. **Disrupting Continuity of Apple’s Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi.** *30th USENIX Security Symposium (USENIX Security ’21)*, August 11–13, 2021, Vancouver, B.C., Canada. *To appear*.
+* Jannik Lorenz. **Wi-Fi Sharing for All: Reverse Engineering and Breaking the Apple Wi-Fi Password Sharing Protocol.** Bachelor thesis, *Technical University of Darmstadt*, March 2020.
 
 ## License
 
