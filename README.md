@@ -32,9 +32,11 @@ Run `openwifipass` to share Wi-Fi credentials (`SSID` and `PSK`) with *any* requ
 sudo -E python3 -m openwifipass --ssid <SSID> --psk <PSK>
 ```
 
+**Use [quoting](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Quoting) of your shell to remove special meaning of certain characters in `SSID`/`PSK`.** In the example below, we use single quotes (`'`) to prevent shell expansion of the `$` character in the PSK.
+
 A successful run of the protocol would look as follows:
 ```
-pi@raspberrypi:~/openwifipass $ sudo -E python3 -m openwifipass --ssid OWL --psk SuperSecretPassword
+pi@raspberrypi:~/openwifipass $ sudo -E python3 -m openwifipass --ssid OWL --psk '$uper$ecretPassword'
 Start scanning...
 SSID match in PWS advertisement from aa:bb:cc:dd:ee:ff
 Connect to device aa:bb:cc:dd:ee:ff
