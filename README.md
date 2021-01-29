@@ -1,5 +1,7 @@
 # OpenWifiPass
 
+![LGTM code quality grade](https://img.shields.io/lgtm/grade/python/github/seemoo-lab/openwifipass?label=code%20quality&logo=lgtm)
+
 An open source implementation of the grantor role in Apple's Wi-Fi Password Sharing protocol.
 
 ## Disclaimer
