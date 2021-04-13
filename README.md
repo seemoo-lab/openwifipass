@@ -1,6 +1,6 @@
 # OpenWifiPass
 
-![LGTM code quality grade](https://img.shields.io/lgtm/grade/python/github/seemoo-lab/openwifipass?label=code%20quality&logo=lgtm)
+[![LGTM code quality grade](https://img.shields.io/lgtm/grade/python/github/seemoo-lab/openwifipass?label=code%20quality&logo=lgtm)](https://lgtm.com/projects/g/seemoo-lab/openwifipass/context:python)
 
 An open source implementation of the grantor role in Apple's Wi-Fi Password Sharing protocol.
 
@@ -63,7 +63,7 @@ This projects contains a reusable OPACK (de)serializer. Read [OPACK.md](OPACK.md
 
 ## Publications
 
-* Milan Stute, Alexander Heinrich, Jannik Lorenz, and Matthias Hollick. **Disrupting Continuity of Apple’s Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi.** *30th USENIX Security Symposium (USENIX Security ’21)*, August 11–13, 2021, Vancouver, B.C., Canada. *To appear*.
+* Milan Stute, Alexander Heinrich, Jannik Lorenz, and Matthias Hollick. **Disrupting Continuity of Apple’s Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi.** *30th USENIX Security Symposium (USENIX Security ’21)*, August 11–13, 2021, virtual Event. [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/stute).
 * Jannik Lorenz. **Wi-Fi Sharing for All: Reverse Engineering and Breaking the Apple Wi-Fi Password Sharing Protocol.** Bachelor thesis, *Technical University of Darmstadt*, March 2020.
 
 ## License
