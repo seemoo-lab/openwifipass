@@ -6,7 +6,7 @@ An open source implementation of the grantor role in Apple's Wi-Fi Password Shar
 
 ## Disclaimer
 
-OpenWifiPass is experimental software and is the result of reverse engineering efforts by the [Open Wireless Link](https://owlink.org) project.
+OpenWifiPass is experimental software and is the result of reverse engineering efforts by the [Open Wireless Link](<<DISCLAIMER: The former owlink website is no longer associated with this project, please disregard it.>>) project.
 The code serves solely documentary and educational purposes. It is *untested* and *incomplete*.
 For example, the code **does not verify the identity of the requestor**. So, do not use this implementation with sensitive Wi-Fi credentials.
 OpenWifiPass is not affiliated with or endorsed by Apple Inc.
