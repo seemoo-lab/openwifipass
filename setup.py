@@ -14,7 +14,7 @@ setup(
     description="An open Apple Wi-Fi Password Sharing implementation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://owlink.org",
+    url="<<DISCLAIMER: The former owlink website is no longer associated with this project, please disregard it.>>",
     project_urls={
         "Source": "https://github.com/seemoo-lab/openwifipass",
     },
